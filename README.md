@@ -8,6 +8,9 @@ The Habit Helper Android App is a user-friendly mobile application designed to a
 | ------- | ------- | ------- |
 | ![Image 1](https://github.com/Aqll/imgs/blob/main/habit/1.png) | ![Image 2](https://github.com/Aqll/imgs/blob/main/habit/2.png) | ![Image 3](https://github.com/Aqll/imgs/blob/main/habit/3.png) |
 
+## Objective
+
+The main objective of the Habit Helper Android App is to motivate and support users in developing positive habits and achieving their personal goals. By providing an intuitive and visually appealing interface, the app aims to make habit-building an engaging and enjoyable experience for users. Through habit planning, event logging, and progress visualization, the app strives to instill a sense of accomplishment and accountability in users as they progress towards forming sustainable and beneficial habits.
 
 ## Overview of Features
 
@@ -35,9 +38,5 @@ The Habit Helper Android App is a user-friendly mobile application designed to a
 ### 6. Viewing and Editing Habit Events
 - Users can view all available details of a specific habit event.
 - It is possible to edit or delete individual habit events for accurate tracking and data management.
-
-## Objective of the Project
-
-The main objective of the Habit Helper Android App is to motivate and support users in developing positive habits and achieving their personal goals. By providing an intuitive and visually appealing interface, the app aims to make habit-building an engaging and enjoyable experience for users. Through habit planning, event logging, and progress visualization, the app strives to instill a sense of accomplishment and accountability in users as they progress towards forming sustainable and beneficial habits.
 
 
